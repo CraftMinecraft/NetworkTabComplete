@@ -1,0 +1,4 @@
+name: NetworkTabComplete
+main: net.craftminecraft.bungee.networktabcomplete.NetworkTabComplete
+version: ${pom.version}-${build.number}
+author: roblabla
